@@ -1,0 +1,21 @@
+#n1{
+    background-color:#2b326a;
+    position: absolute;
+      top: 0px;
+    box-shadow: 0px 0px 10px black;
+    width: 200vh;
+    height: 150px;
+    text-align: center;
+    
+}
+#dev1{
+    background-color:#adb4ea;
+    position: absolute;
+      right: 50vh;
+      top: 60px;
+    box-shadow: 0px 0px 10px black;
+    width: 944px;
+    height: 100px;
+    text-align: center;
+    
+}

@@ -1,0 +1,8 @@
+main.main-container{
+    background: linear-gradient(168deg, rgba(26,0,97,1) 30%, rgba(77,42,255,1) 60%, rgba(128,0,255,1) 84%);
+    width: 110vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

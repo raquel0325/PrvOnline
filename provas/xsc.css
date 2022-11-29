@@ -1,0 +1,106 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+#n1{
+    background-color:#2b326a;
+    position: absolute;
+      top: 0px;
+    box-shadow: 0px 0px 10px black;
+    width: 200vh;
+    height: 150px;
+    text-align: center;
+    
+}
+#dev1{
+		background-color:#4dbede;
+	}
+	#dv2{
+		background-color:#adb4ea;
+		position: absolute;
+  		right: 200px;
+  		top: 60px;
+		box-shadow: 0px 0px 10px black;
+        width: 559px;
+        height: 1200px;
+        text-align: center;
+        
+	}
+	#h{
+	  width: 40vw;
+      height: 10vw;
+	}
+	
+#p4{
+	color: white;
+}
+#d1{
+	background-color: pink;
+	display: inline-block;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(168deg, rgba(26,0,97,1) 30%, rgba(77,42,255,1) 60%, rgba(128,0,255,1) 84%);
+
+}
+h1{
+	color: purple;
+	text-align: center;
+}
+#d1{
+	  position: absolute;
+  right: 5px;
+  top: 37px;
+
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+ul{
+	list-style: none;
+}
+
+
+input[type="checkbox"]
+{
+	display: none
+}
+nav
+{
+background-color: rgba(16,16,16,.5);
+width: 350px;
+height: 100%;
+left: -350px;
+position: absolute;
+transition:all.5s;
+}
+input[type="checkbox"]:checked~nav
+{
+	transform:translateX(350px);
+}
+ul{
+	top:50px;
+	position: absolute;
+	width: 100%;
+
+}
+a{
+	display: block;
+	padding: 20px 70px;
+	color: white;
+}
+a:hover{
+	background-color: rgb(16,224,230);
+	color: black;
+}
+label{
+	padding: 15px;
+	position: absolute;
+	z-index: 1;
+}
+
+
+
+

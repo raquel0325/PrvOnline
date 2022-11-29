@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.form-container{
+    width: 50%;
+    height: 404px;
+    border-radius: 16px;
+    background-color: rgb(99 109 209 / 31%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(168deg, rgba(26,0,97,1) 30%, rgba(77,42,255,1) 60%, rgba(128,0,255,1) 84%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
